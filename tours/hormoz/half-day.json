@@ -1,0 +1,108 @@
+{
+  "message": "Main Tour",
+  "data": {
+    "id": "cd72295b-6a6e-4ed7-ae4a-a4b8d4f2ece3",
+    "title": "تور نیم روزه جزیره هنگام",
+    "image": "https://apochi.com/wp-content/uploads/2019/02/Hengam-Island-2.jpg",
+    "description": {
+      "pricePerPerson": 980000,
+      "startDate": "2023-02-24T08:00:00",
+      "returnDate": "2023-02-24T21:00:00",
+      "about": "تور به صورت مستقیم از بندرعباس آغاز خواهد شد و در طول مسیر شما شاهد چشم انداز زیبای جزایر دیگر همانند؛ جزیره هرمز در ضلع غربی، جزیره قشم در ضلع جنوبی و جزیره ی زیبای الرک هستید. بازدید از جزیره هنگام، بازدید از زیستگاه دلفین، تماشا ماهی های آکواریومی، قدم زدن در ساحل نقره ای، رفتن به زیستگاه پرندگان و خرید از بازارچه سنتی جزیره هنگام از برنامه های سفر می باشد. به همراه بیمه مسافرتی، لیدر محلی، 2 میان وعده در بوفه کشتی، وعده ناهار در رستوران شیب دراز، برنامه های سرگرم کننده درون کشتی، عکاسی روی عرشه، خرید صنایع دستی سنتی جنوب در کشتی، موسیقی سنتی جنوبی و گشت در منطقه محلی جزیره هنگام از برنامه های سفر می باشد. کشتی در ضلع غربی جزیره قشم، روستای شیب دراز، پهلو گرفته و پس از پیادوری کوتاه در روستا برای صرف ناهار به رستوران محلی خواهی د رفت و هنگام میل کردن ناهار می توانید از ویو دریایی رستوران دیدن کنید",
+      "availableSites": 150,
+      "reservedSites": 0
+    },
+    "moreDetails": [
+      {
+        "id": "a0a9a30b-8b04-4c9a-9a84-3282e09c225d",
+        "title": "الماس قشم",
+        "description": "شناور الماس قشم ۱ یکی از زیباترین و بزرگترین شناور هایی است که در مسیر بندرعباس به جزایر قشم، هرمز و ابوموسی تردد دارد.\nظرفیت این شناور ۱۵۲ نفر و دارای دو طبقه است که طبقه پایین دارای دو عرشه ی جلویی‌ و عقبی و طبقه ی فوقانی دارای یک عرشه ی عقبی می باشد. ",
+        "location": {
+          "address": "address",
+          "googleMapList": "",
+          "lat": "",
+          "lng": ""
+        },
+        "image": {
+          "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254",
+          "more": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/60/Hengamsland.jpg?20100418091312",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254"
+          ]
+        }
+      },
+      {
+        "id": "dac6825f-e412-4731-9a25-a8c0698afa02",
+        "title": "جزیره ی هرمز",
+        "description": "یکی از زیباترین جزایر دنیاست قسمت عمده ی آن را جزایر نمکی تشکیل داده است. هرمز به جزیره ی رنگین کمان معروف است که ما از سمت تیره ی آن عبور خواهیم کرد.",
+        "location": {
+          "address": "address",
+          "googleMapList": "",
+          "lat": "",
+          "lng": ""
+        },
+        "image": {
+          "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254",
+          "more": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/60/Hengamsland.jpg?20100418091312",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254"
+          ]
+        }
+      },
+      {
+        "id": "16fcc92d-dc26-4dc0-8689-b144cb8196b4",
+        "title": "جزیره ی لارک",
+        "description": "یکی از جزایر کمتر شناخته شده ی ایران است که فرهنگ و طبیعت خاصی دارد. این جزیره سواحل بسیار بکری دارد که ما از ساحل شمالی آن عبور خواهیم کرد.",
+        "location": {
+          "address": "address",
+          "googleMapList": "",
+          "lat": "",
+          "lng": ""
+        },
+        "image": {
+          "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254",
+          "more": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/60/Hengamsland.jpg?20100418091312",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254"
+          ]
+        }
+      },
+      {
+        "id": "f6b47799-5256-46fe-a01b-a3b29c6ce8bc",
+        "title": "جزیره ی لارک",
+        "description": "منطقه ی گردشگری در قسمت جنوبی جزیره ی قشم است است که برای اولین بار ما از قسمت جنوبی جزایر عبور خواهیم کرد.",
+        "location": {
+          "address": "address",
+          "googleMapList": "",
+          "lat": "",
+          "lng": ""
+        },
+        "image": {
+          "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254",
+          "more": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/60/Hengamsland.jpg?20100418091312",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254"
+          ]
+        }
+      },
+      {
+        "id": "9d365728-4f31-4426-a94e-c79e4dc510c2",
+        "title": "زیستگاه دلفین ها",
+        "description": "زیستگاه دلفین ها در محدوده ی جزیره ی هنگام و روستای شیب دراز قرار دارد که غیر از دلفین ها جاذبه های متنوع دیگری مانند بازارچه هنگام و غیره دارد که از آن ها بازدید خواهیم کرد",
+        "location": {
+          "address": "address",
+          "googleMapList": "",
+          "lat": "",
+          "lng": ""
+        },
+        "image": {
+          "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254",
+          "more": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/60/Hengamsland.jpg?20100418091312",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hengam_Island.jpg/800px-Hengam_Island.jpg?20140430065254"
+          ]
+        }
+      }
+    ]
+  }
+}
